@@ -1,0 +1,13 @@
+.center-row {
+  display: inline-flex;
+  align-items: center;
+  min-width: 50%;
+}
+
+.center-row button {
+  display: none !important;
+}
+
+.center-row:hover button {
+  display: inline-block !important;
+}

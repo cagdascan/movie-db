@@ -1,0 +1,11 @@
+.app-bar {
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 45px !important;
+  padding-right: 45px !important;
+  min-height: 74px;
+}
+
+.app-bar h1 {
+  display: none;
+}
